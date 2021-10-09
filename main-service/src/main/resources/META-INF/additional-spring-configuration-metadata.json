@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "voron.send.to",
+      "type": "java.lang.String",
+      "description": "Description for voron.send.to."
+    }
+  ] }
